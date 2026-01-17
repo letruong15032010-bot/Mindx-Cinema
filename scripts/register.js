@@ -17,4 +17,5 @@ signUpForm.addEventListener("submit", function () {
   if (!email.value.includes("@")) {
     alert("Email format not right");
   }
+  //Lưu
 });
